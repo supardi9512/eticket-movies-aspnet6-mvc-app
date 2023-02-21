@@ -1,9 +1,9 @@
 ﻿@*DEFINE MODEL*@
-@model IEnumerable<Actor>
+@model IEnumerable<Producer>
 
 @*DEFINE VIEWDATA*@
 @{
-    ViewData["Title"] = "List of Actors";
+    ViewData["Title"] = "List of Producers";
 }
 
 @*WRITE CODE*@
@@ -19,7 +19,7 @@
                 </tr>
             </thead>
             <tbody>
-                @foreach(var item in Model)
+                @foreach (var item in Model)
                 {
                     <tr>
                         <td class="align-middle">
