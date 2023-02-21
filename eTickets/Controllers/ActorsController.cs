@@ -13,6 +13,7 @@ namespace eTickets.Controllers
             _context = context;
         }
 
+        //GET DATA SYNCHRONOUS
         public IActionResult Index()
         {
             var data = _context.Actors.ToList();
