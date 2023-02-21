@@ -21,31 +21,31 @@ namespace eTickets.Data
                         new Cinema()
                         {
                             Name = "Cinema 1",
-                            Logo = "http://dotnethow.net/images/cinemas/cinema_1.jpeg",
+                            Logo = "http://dotnethow.net/images/cinemas/cinema-1.jpeg",
                             Description = "Description 1",
                         },
                         new Cinema()
                         {
                             Name = "Cinema 2",
-                            Logo = "http://dotnethow.net/images/cinemas/cinema_2.jpeg",
+                            Logo = "http://dotnethow.net/images/cinemas/cinema-2.jpeg",
                             Description = "Description 2",
                         },
                         new Cinema()
                         {
                             Name = "Cinema 3",
-                            Logo = "http://dotnethow.net/images/cinemas/cinema_3.jpeg",
+                            Logo = "http://dotnethow.net/images/cinemas/cinema-3.jpeg",
                             Description = "Description 3",
                         },
                         new Cinema()
                         {
                             Name = "Cinema 4",
-                            Logo = "http://dotnethow.net/images/cinemas/cinema_4.jpeg",
+                            Logo = "http://dotnethow.net/images/cinemas/cinema-4.jpeg",
                             Description = "Description 4",
                         },
                         new Cinema()
                         {
                             Name = "Cinema 5",
-                            Logo = "http://dotnethow.net/images/cinemas/cinema_5.jpeg",
+                            Logo = "http://dotnethow.net/images/cinemas/cinema-5.jpeg",
                             Description = "Description 5",
                         }
                     });
@@ -61,31 +61,31 @@ namespace eTickets.Data
                         {
                             FullName = "Actor 1",
                             Bio = "Bio 1",
-                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor_1.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-1.jpeg",
                         },
                         new Actor()
                         {
                             FullName = "Actor 2",
                             Bio = "Bio 2",
-                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor_2.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-2.jpeg",
                         },
                         new Actor()
                         {
                             FullName = "Actor 3",
                             Bio = "Bio 3",
-                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor_3.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-3.jpeg",
                         },
                         new Actor()
                         {
                             FullName = "Actor 4",
                             Bio = "Bio 4",
-                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor_4.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-4.jpeg",
                         },
                         new Actor()
                         {
                             FullName = "Actor 5",
                             Bio = "Bio 5",
-                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor_5.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/actors/actor-5.jpeg",
                         }
                     });
                     context.SaveChanges();
@@ -100,31 +100,31 @@ namespace eTickets.Data
                         {
                             FullName = "Producer 1",
                             Bio = "Bio 1",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer_1.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-1.jpeg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 2",
                             Bio = "Bio 2",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer_2.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-2.jpeg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 3",
                             Bio = "Bio 3",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer_3.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-3.jpeg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 4",
                             Bio = "Bio 4",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer_4.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-4.jpeg",
                         },
                         new Producer()
                         {
                             FullName = "Producer 5",
                             Bio = "Bio 5",
-                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer_5.jpeg",
+                            ProfilePictureURL = "http://dotnethow.net/images/producers/producer-5.jpeg",
                         }
                     });
                     context.SaveChanges();
